@@ -1,0 +1,14 @@
+Customer_ID,Name,Address,Email,Phone,Industry,Total_Employees,Annual_Revenue
+1,Acme Corp,"123 Main St, Anytown",info@acmecorp.com,(555) 123-4567,Manufacturing,500,$100M
+2,XYZ Inc,"456 Elm St, Othertown",support@xyzinc.com,(555) 234-5678,Technology,1000,$500M
+3,Global Corp,"789 Oak St, Anothercity",finance@globalcorp.com,(555) 345-6789,Finance,250,$250M
+4,ABC Corp,"321 Pine St, Yourtown",marketing@abccorp.com,(555) 456-7890,Marketing,100,$50M
+5,BigData Inc,"654 Maple St, Newcity",social@bigdatainc.com,(555) 567-8901,Data_Analytics,50,$10M
+6,StartTech LLC,"987 Cedar St, Someplace",info@starttech.com,(555) 678-9012,Technology,500,$100M
+7,BlueSky Enterprises,"6545 Juniper Ave, Anytown",info@blueskyent.com,(555) 789-0123,Consulting,100,$20M
+8,GreenWave Inc,"432 Oak St, Othertown",info@greenwaveinc.com,(555) 890-1234,Renewable_Energy,250,$75M
+9,SuperNova Corp,"987 Maple St, Anothercity",info@supernovacorp.com,(555) 901-2345,Aerospace,5000,$1B
+10,Phoenix Systems,"246 Pine St, Yourtown",info@phoenixsys.com,(555) 123-4567,Technology,200,$25M
+11,Infinity Solutions,"1357 Main St, Anytown",info@infinitysolutions.com,(555) 234-5678,Consulting,75,$15M
+12,NextGen Robotics,"789 Elm St, Othertown",info@nextgenrobotics.com,(555) 345-6789,Robotics,50,$5M
+13,CloudWorks LLC,"2468 Oak St, Anothercity",info@cloudworksllc.com,(555) 456-7890,Cloud_Computing,100,$10M
