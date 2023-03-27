@@ -1,0 +1,7 @@
+route_id,route_name,route_description
+1,"Route 100 Yellow","This route runs from downtown Champaign to downtown Urbana"
+2,"Route 200 Green","This route runs from the University of Illinois campus to the Market Place Mall"
+3,"Route 300 Red","This route runs from the Illinois Terminal to Parkland College"
+4,"Route 400 Blue","This route runs from the Champaign-Urbana Regional Airport to downtown Champaign"
+5,"Route 500 Purple","This route runs from downtown Urbana to the Walmart Supercenter in Champaign"
+6,"Route 600 Orange","This route runs from downtown Champaign to the Savoy Walmart Supercenter and Marketplace Shopping Mall"
